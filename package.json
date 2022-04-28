@@ -1,0 +1,15 @@
+{
+  "name": "monogo-javascript-challenge",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Dev.js Summit 2022 - Monogo JavaScript Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Koulechov",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
